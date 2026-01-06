@@ -1,2 +1,2 @@
 # Gauri2826-python-assignment
-This is first repositort
+This is first my repositort
